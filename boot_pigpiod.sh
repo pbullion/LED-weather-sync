@@ -1,2 +1,2 @@
-sudo killall pigpiod
-sudo pigpiod
+sudo killall pigpio
+sudo pigpio
